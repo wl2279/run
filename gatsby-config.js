@@ -10,7 +10,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://www.baidu.com',
+        url: 'https://runningpage-wl2279.vercel.app',
       },
       {
         name: 'About',
