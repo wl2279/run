@@ -4,13 +4,13 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Wanglei-Running',
-    siteUrl: 'https://runningpage-wl2279.vercel.app',
+    siteUrl: 'https://run-wl2279.vercel.app',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal running site',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://runningpage-wl2279.vercel.app',
+        url: 'https://run-wl2279.vercel.app',
       },
       {
         name: 'About',
