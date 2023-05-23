@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: '乱云天的户外跑',
     siteUrl: 'https://run-wl2279.vercel.app',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://pica.zhimg.com/fab23f1bb7896e64aeb114a203b30996_l.jpg?source=32738c0c',
     description: 'Personal running site',
     navLinks: [
       {
