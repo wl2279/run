@@ -9,8 +9,8 @@ module.exports = {
     description: 'Personal running site',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://run-wl2279.vercel.app',
+        name: 'R.I.P',
+        url: 'https://mp.weixin.qq.com/s/34HL50MamcRVO-yMaPWonw',
       },
       {
         name: 'About',
