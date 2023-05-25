@@ -3,7 +3,7 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: '乱云天的户外跑',
+    siteTitle: '王磊的户外跑',
     siteUrl: 'https://run-wl2279.vercel.app',
     logo: 'https://pica.zhimg.com/fab23f1bb7896e64aeb114a203b30996_l.jpg?source=32738c0c',
     description: 'Personal running site',
