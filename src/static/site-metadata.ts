@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: '王磊的户外跑',
-  siteUrl: 'https://wl2279.github.io/run2.0/',
+  siteUrl: 'https://wl2279.vercel.app/',
   logo: 'https://pica.zhimg.com/fab23f1bb7896e64aeb114a203b30996_l.jpg?source=32738c0c',
   description: 'Personal site and blog',
   navLinks: [
