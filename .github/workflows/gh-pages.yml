@@ -47,6 +47,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
+        with:
+          # if your default branches is not master, please change it here
+          ref: main
 
       - name: Cache Data Files
         if: inputs.save_data_in_github_cache
@@ -59,7 +62,7 @@ jobs:
             TCX_OUT
             FIT_OUT
             Workouts
-            scripts/data.db
+            run_page/data.db
             src/static/activities.json
             imported.json
           key: ${{ inputs.data_cache_prefix }}-${{ github.sha }}-${{ github.run_id }}
@@ -72,7 +75,7 @@ jobs:
         with:
           node-version: '20'
 
-      - uses: pnpm/action-setup@v3
+      - uses: pnpm/action-setup@v2
         name: Install pnpm
         with:
           version: 8
