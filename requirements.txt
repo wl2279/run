@@ -1,7 +1,7 @@
 httpx
 gpxpy==1.6.2
 stravalib==0.10.4
-appdirs>=1.4.0
+appdirs>=1.4.4
 svgwrite>=1.1.9
 colour>=0.1.5
 s2sphere
