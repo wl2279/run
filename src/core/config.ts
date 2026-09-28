@@ -30,9 +30,9 @@ export const DEFAULT_THEME: 'light' | 'dark' | 'system' =
 export const THEME_PRESET: string = config.theme_preset ?? 'default';
 export const GOALS: Record<string, GoalConfig> = config.goals ?? {};
 export const DEFAULT_GOAL: GoalConfig = GOALS.all ?? {
-  yearly: 2000,
-  monthly: 150,
-  weekly: 35,
+  yearly: 1200,
+  monthly: 100,
+  weekly: 25,
   unit: 'distance',
 };
 export const AVATAR: string = config.avatar ?? '';
