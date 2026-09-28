@@ -444,7 +444,7 @@ if __name__ == "__main__":
         downloaded_ids = list(set(downloaded_ids + downloaded_gpx_ids))
 
     loop = asyncio.new_event_loop()
-asyncio.set_event_loop(loop)
+    asyncio.set_event_loop(loop)
     future = asyncio.ensure_future(
         download_new_activities(
             secret_string,
