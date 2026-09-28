@@ -1,0 +1,22 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>9544.56</distance>
+<average_hr>156.0</average_hr>
+<average_speed>3.0000000000000004</average_speed>
+<start_time>2017-05-28T21:54:07+00:00</start_time>
+<end_time>2017-05-28T22:47:08.340000+00:00</end_time>
+<moving_time>3182.0</moving_time>
+<elapsed_time>3181.34</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2017-05-28T21:54:07.000Z</time>
+  </metadata>
+  <trk>
+    <name>跑步</name>
+    <type>running</type>
+    <trkseg/>
+  </trk>
+</gpx>
